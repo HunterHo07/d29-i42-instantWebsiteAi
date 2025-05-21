@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Free",
+    "description": "Try before you commit",
+    "price": "Free",
+    "features": [
+      "Browse and preview templates",
+      "Generate instant website preview",
+      "Download static HTML (DIY self-hosting)",
+      "No signup required"
+    ],
+    "cta": "Try Now",
+    "popular": false
+  },
+  {
+    "id": 2,
+    "name": "Launch Plan",
+    "description": "Get online instantly",
+    "price": "$0 upfront + $14 setup",
+    "renewal": "$9/year",
+    "features": [
+      "Hosting on yourname.instantweb.ai subdomain",
+      "Unlimited content/design requests for 7 days",
+      "Site goes live and remains hosted",
+      "Basic analytics",
+      "Email support"
+    ],
+    "cta": "Get Started",
+    "popular": true
+  },
+  {
+    "id": 3,
+    "name": "Custom Domain",
+    "description": "We manage everything for you",
+    "price": "$19/year",
+    "features": [
+      "We purchase + manage your domain",
+      "Ensures continued service",
+      "Renewal and DNS fully handled",
+      "Recommended for non-technical users",
+      "Priority support"
+    ],
+    "cta": "Choose Plan",
+    "popular": false
+  },
+  {
+    "id": 4,
+    "name": "Pro Design",
+    "description": "Custom design tweaks",
+    "price": "$89 one-time",
+    "features": [
+      "Custom layout and design tweaks",
+      "Colors, structure, branding adjustments",
+      "Professional design consultation",
+      "Unlimited revisions for 14 days",
+      "Premium support"
+    ],
+    "cta": "Upgrade",
+    "popular": false
+  }
+]

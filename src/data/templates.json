@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Modern Business",
+    "description": "A clean, modern template for businesses of all sizes. Features a bold hero section, service highlights, and testimonials.",
+    "image": "/images/templates/template1.jpg",
+    "category": "Business",
+    "features": [
+      "Responsive design",
+      "Contact form",
+      "Service showcase",
+      "Testimonial section",
+      "About us page"
+    ],
+    "demoUrl": "/demo?template=1"
+  },
+  {
+    "id": 2,
+    "name": "Creative Portfolio",
+    "description": "Showcase your creative work with this elegant portfolio template. Perfect for designers, photographers, and artists.",
+    "image": "/images/templates/template2.jpg",
+    "category": "Portfolio",
+    "features": [
+      "Project gallery",
+      "Filterable portfolio",
+      "About me section",
+      "Skills showcase",
+      "Contact information"
+    ],
+    "demoUrl": "/demo?template=2"
+  },
+  {
+    "id": 3,
+    "name": "Startup Landing",
+    "description": "Launch your startup with this high-converting landing page template. Designed to showcase your product and drive conversions.",
+    "image": "/images/templates/template3.jpg",
+    "category": "Landing Page",
+    "features": [
+      "Hero with call-to-action",
+      "Feature highlights",
+      "Pricing table",
+      "FAQ section",
+      "Newsletter signup"
+    ],
+    "demoUrl": "/demo?template=3"
+  }
+]

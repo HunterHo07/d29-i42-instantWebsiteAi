@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Instant Website Generator",
+    "description": "Upload icon + name → get a full website preview on our subdomain instantly.",
+    "icon": "RocketLaunch"
+  },
+  {
+    "id": 2,
+    "title": "Template Library",
+    "description": "Dozens of beautiful, mobile-friendly templates created by pros and AI—free to explore.",
+    "icon": "Template"
+  },
+  {
+    "id": 3,
+    "title": "Admin Panel",
+    "description": "Edit text/images/colors via a basic dashboard—no coding or site builders.",
+    "icon": "Dashboard"
+  },
+  {
+    "id": 4,
+    "title": "One-Click Hosting",
+    "description": "Host under yourname.instantweb.ai with zero setup.",
+    "icon": "Cloud"
+  },
+  {
+    "id": 5,
+    "title": "7-Day Happiness Request",
+    "description": "Submit design change requests for up to 7 days until you're satisfied.",
+    "icon": "Sparkles"
+  },
+  {
+    "id": 6,
+    "title": "Mobile Responsive",
+    "description": "All templates are fully responsive and look great on any device.",
+    "icon": "DevicePhone"
+  }
+]

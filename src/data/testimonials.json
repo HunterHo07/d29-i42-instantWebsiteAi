@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Johnson",
+    "title": "Founder, DesignCraft",
+    "image": "/images/testimonials/person1.jpg",
+    "quote": "instantWebsiteAi saved me so much time! I had my business website up and running in literally minutes, not days or weeks. The templates are beautiful and professional."
+  },
+  {
+    "id": 2,
+    "name": "Michael Chen",
+    "title": "Freelance Developer",
+    "image": "/images/testimonials/person2.jpg",
+    "quote": "As a developer, I was skeptical about AI-generated websites, but instantWebsiteAi impressed me. The code is clean, the sites load fast, and my clients love how quickly I can deliver."
+  },
+  {
+    "id": 3,
+    "name": "Emily Rodriguez",
+    "title": "Small Business Owner",
+    "image": "/images/testimonials/person3.jpg",
+    "quote": "I tried other website builders and always got stuck. With instantWebsiteAi, I just uploaded my logo, entered my business name, and boom—I had a professional website! No learning curve at all."
+  }
+]
